@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a script that will automate the scanning process.<br>Hi! I'm just someone who's started to get interested in cyber security and ethical hacking. <br>Right now, I'm trying to improve my knowledge of networks.<br>I also work for a bigtech company on the SOC team. 👾<br><br>Fun fact:<br>* I play the guitar. 🎸<br>
+Hi! I'm just someone who's started to get interested in cyber security and ethical hacking.<br>I'm currently working on a script that will automate the scanning process. <br>Right now, I'm trying to improve my knowledge of networks.<br>I also work for a bigtech company on the SOC team. 👾<br><br>Fun fact:<br>* I play the guitar. 🎸<br>
 
 
 # 💻 Tech Stack:
